@@ -8,6 +8,6 @@
 ------------------------------------------------------------------------------
 <h2>💻 Information Technology Projects:</h2>
 
-- [Machine Learning Artificial Neural Network](https://github.com/brianapulido/ML-ANN-Model-Project)
+- [Data Science: Building a Machine Learning Artificial Neural Network Model](https://github.com/brianapulido/ML-ANN-Model-Project)
 - [Historical Stock Market Data Visualization and Analysis in Python](https://github.com/brianapulido/Historical-Stock-Market-Data)
 - [Data Science: Exploring and analyzing data with Python](https://github.com/brianapulido/Data-Analysis-Student-Study-Time-and-Grades)
