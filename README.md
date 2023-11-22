@@ -7,3 +7,6 @@
 - ⚡ Fun fact: I am a 3X Division 1 Women's Basketball National Champion (UConn)
 ------------------------------------------------------------------------------
 <h2>💻 Information Technology Projects:</h2>
+
+- https://github.com/brianapulido/ML-ANN-Model-Project
+- 
