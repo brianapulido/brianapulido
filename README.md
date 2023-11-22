@@ -1,4 +1,4 @@
-<h1> ### Hi, I'm Briana :</h1>
+<h1> Hi, I'm Briana :</h1>
 
 - 👩‍💻 I am a technology professional with a focus on cybersecurity
 - 📜 I am Security+ certified
