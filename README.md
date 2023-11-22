@@ -8,5 +8,5 @@
 ------------------------------------------------------------------------------
 <h2>💻 Information Technology Projects:</h2>
 
-- [Machine Learning Artificial Neural Network] (https://github.com/brianapulido/ML-ANN-Model-Project)
+- [Machine Learning Artificial Neural Network](https://github.com/brianapulido/ML-ANN-Model-Project)
 - 
