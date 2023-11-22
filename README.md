@@ -6,4 +6,4 @@
 - 🤝 Connect with me: https://www.linkedin.com/in/briana-pulido-yero-517052105/ or yerobriana@gmail.com
 - ⚡ Fun fact: I am a 3X Division 1 Women's Basketball National Champion (UConn) 
 ------------------------------------------------------------------------------
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>💻 Information Technology Projects:</h2>
