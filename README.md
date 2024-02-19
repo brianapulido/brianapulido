@@ -11,4 +11,5 @@
 - [Data Science: Building a Machine Learning Artificial Neural Network Model](https://github.com/brianapulido/ML-ANN-Model-Project)
 - [Data Science: Exploring and Analyzing Data with Python](https://github.com/brianapulido/Data-Analysis-Student-Study-Time-and-Grades)
 - [Data Analysis: Historical Stock Market Data Visualization and Analysis in Python](https://github.com/brianapulido/Historical-Stock-Market-Data)
+- [Security+ SY0-601 Study Guide](https://github.com/brianapulido/Security-Study-Guide/blob/main/Security%2B%20Study%20Guide)
 
