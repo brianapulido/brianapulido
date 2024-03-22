@@ -1,7 +1,7 @@
 <h1> Hi, I'm Briana </h1>
 
 - 👩‍💻 I am a technology professional with a focus on cybersecurity
-- 📜 I am Security+ certified
+- 📜 I am Security+ certified and Microsoft Certified: Azure Fundamentals
 - 📚 I am a current Master's student majoring in Information Assurance and Cybersecurity
 - 🤓 I am learning Microsoft Azure cloud and security concepts and components on my own
 - 🤝 Connect with me: [LinkedIn Briana Yero](https://www.linkedin.com/in/briana-pulido-yero-517052105/)
